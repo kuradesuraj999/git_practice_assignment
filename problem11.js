@@ -1,5 +1,5 @@
-let N=6;
-    let str="nrupul";
+let N=5;
+    let str="nitin";
  
    bag="";
   
@@ -10,7 +10,7 @@ let N=6;
       bag=bag+str[i];
    
  }
-   if (bag=!str){
+   if (bag==str){
   
      console.log("Yes");
 
